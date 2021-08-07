@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MetaAppGallery</string>
+    <string name="action_retry">重试</string>
+    <string name="action_setting_network">设置网络</string>
+    <string name="des_list_item_picture">A picture about landmarks</string>
+    <string name="menu_action_toggle_layout">切换布局</string>
+    <string name="search_hint">搜索城市地标</string>
+</resources>

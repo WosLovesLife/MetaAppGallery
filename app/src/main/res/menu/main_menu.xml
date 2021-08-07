@@ -1,0 +1,15 @@
+<!-- sample_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionSearch"
+        android:title="搜索"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/actionToggleLayout"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menu_action_toggle_layout"
+        app:showAsAction="always" />
+</menu>
